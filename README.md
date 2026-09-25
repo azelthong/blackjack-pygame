@@ -1,6 +1,6 @@
 # Blackjack Game
 
-A Blackjack game developed with Python and Pygame featuring multi-deck gameplay, automated dealer logic, hand scoring, natural Blackjack detection, and persistent win/loss tracking.
+A Blackjack game built with Python and Pygame featuring a persistent four-deck shoe, automated dealer logic, natural Blackjack detection, dynamic Ace scoring, and win/loss tracking.
 
 ## Preview
 
